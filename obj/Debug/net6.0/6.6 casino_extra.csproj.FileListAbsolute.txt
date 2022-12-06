@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\6.6 casino_extra\bin\Debug\net6.0\6.6 casino_extra.exe
+D:\multimedi\Cscherp\6.6 casino_extra\bin\Debug\net6.0\6.6 casino_extra.deps.json
+D:\multimedi\Cscherp\6.6 casino_extra\bin\Debug\net6.0\6.6 casino_extra.runtimeconfig.json
+D:\multimedi\Cscherp\6.6 casino_extra\bin\Debug\net6.0\6.6 casino_extra.dll
+D:\multimedi\Cscherp\6.6 casino_extra\bin\Debug\net6.0\6.6 casino_extra.pdb
+D:\multimedi\Cscherp\6.6 casino_extra\obj\Debug\net6.0\6.6 casino_extra.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\6.6 casino_extra\obj\Debug\net6.0\6.6 casino_extra.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\6.6 casino_extra\obj\Debug\net6.0\6.6 casino_extra.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\6.6 casino_extra\obj\Debug\net6.0\6.6 casino_extra.AssemblyInfo.cs
+D:\multimedi\Cscherp\6.6 casino_extra\obj\Debug\net6.0\6.6 casino_extra.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\6.6 casino_extra\obj\Debug\net6.0\6.6 casino_extra.dll
+D:\multimedi\Cscherp\6.6 casino_extra\obj\Debug\net6.0\refint\6.6 casino_extra.dll
+D:\multimedi\Cscherp\6.6 casino_extra\obj\Debug\net6.0\6.6 casino_extra.pdb
+D:\multimedi\Cscherp\6.6 casino_extra\obj\Debug\net6.0\6.6 casino_extra.genruntimeconfig.cache
+D:\multimedi\Cscherp\6.6 casino_extra\obj\Debug\net6.0\ref\6.6 casino_extra.dll
